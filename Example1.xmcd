@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest ac63f23479b04fcbeef1bf793b4467d1?>
+<?validation-md5-digest 3f04e505a8eff4997a174dc3b4e6bfc4?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10" xmlns:prd="http://schemas.mathsoft.com/point-release-data">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>Пользователь</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>15</revision>
+			<revision>18</revision>
 			<documentID>D76F1596-C4FC-4B13-9533-996373380FCC</documentID>
-			<versionID>E48F5784-B73C-4496-824E-0B27992B2C5B</versionID>
+			<versionID>6841410B-5B04-4F8C-896A-2FB68FA1EF84</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -110,14 +110,14 @@
 		</editor>
 		<fileFormat image-type="none" image-quality="75" save-numeric-results="true" exclude-large-results="true" save-text-images="false" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="3102" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+			<handbook handbook-region-tag-ub="3153" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
 		</miscellaneous>
 	</settings>
 	<regions>
 		<region region-id="2904" left="12" top="14.25" width="397.5" height="144" align-x="12" align-y="24" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
 				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">This is the supplement to the paper by <i>Tatyana Averina</i> (ata@osmf.sscc.ru)<br/>and <i>Konstantin Rybakov</i>
-					<inlineAttr font-style="normal"> (rkoffice@mail.ru) </inlineAttr>"<b>Analysis and Conditional Optimization<br/>of Projection Estimates for Distribution of Random Variable Using Legendre Polynomials</b>" (Algorithms 2025, 1X(X), XX. https://doi.org/10.3390/...)</p>
+					<inlineAttr font-style="normal"> (rkoffice@mail.ru) </inlineAttr>"<b>Analysis and Conditional Optimization<br/>of Projection Estimates for Distribution of Random Variable Using Legendre Polynomials</b>" (Algorithms 2025, 18(8), 466. https://doi.org/10.3390/a18080466)</p>
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit"/>
 				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
 					<b>Abstract.</b> Algorithms for jointly obtaining projection estimates of the density and distribution function of a random variable using the Legendre polynomials are proposed. For these algorithms, a problem of the conditional optimization is solved. Such an optimization allows one increasing the approximation accuracy with a minimum computational costs. The proposed algorithms are tested on examples with different degree of smoothness of the density. A projection estimate of the density is compared to a histogram, which is often used in applications to estimate distributions.</p>
@@ -1776,11 +1776,11 @@
 		<region region-id="3102" left="12" top="1965" width="237.75" height="105.75" align-x="48" align-y="1986" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6ED80397-2266-41FF-B428-BED46B187411" version-id="E752F20E-5770-4E97-B6CE-373A96C9EC23" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Example2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash>eaa0cb2a658d5d6865ada6a75f73a359</hash>
+					<originRef doc-id="6ED80397-2266-41FF-B428-BED46B187411" version-id="E752F20E-5770-4E97-B6CE-373A96C9EC23" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257455532" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Example2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
 					</originRef>
-					<parentRef doc-id="6ED80397-2266-41FF-B428-BED46B187411" version-id="E752F20E-5770-4E97-B6CE-373A96C9EC23" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Example2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash>eaa0cb2a658d5d6865ada6a75f73a359</hash>
+					<parentRef doc-id="6ED80397-2266-41FF-B428-BED46B187411" version-id="E752F20E-5770-4E97-B6CE-373A96C9EC23" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257447396" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Example2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
 					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2891,61 +2891,61 @@
 					<ml:id xml:space="preserve">SGError</ml:id>
 					<result xmlns="http://schemas.mathsoft.com/math30">
 						<ml:matrix rows="11" cols="5">
-							<ml:real>0.036019330934373435</ml:real>
-							<ml:real>0.025549327174351443</ml:real>
-							<ml:real>0.027548811586346814</ml:real>
-							<ml:real>0.026677655692645456</ml:real>
-							<ml:real>0.024987953796757518</ml:real>
-							<ml:real>0.025043237153372817</ml:real>
-							<ml:real>0.026276384152809334</ml:real>
-							<ml:real>0.024842173071626755</ml:real>
-							<ml:real>0.025036501775715397</ml:real>
-							<ml:real>0.024676412946998866</ml:real>
-							<ml:real>0.024626490967456657</ml:real>
-							<ml:real>0.050277573810275838</ml:real>
-							<ml:real>0.039901485648094696</ml:real>
-							<ml:real>0.022874002432017905</ml:real>
-							<ml:real>0.020344873913211839</ml:real>
-							<ml:real>0.018703628634733738</ml:real>
-							<ml:real>0.013408514567060648</ml:real>
-							<ml:real>0.01687712934672355</ml:real>
-							<ml:real>0.010892505581676509</ml:real>
-							<ml:real>0.010978233625453268</ml:real>
-							<ml:real>0.010085796630644151</ml:real>
-							<ml:real>0.0099253266372243236</ml:real>
-							<ml:real>0.11681428938259979</ml:real>
-							<ml:real>0.085427002904042856</ml:real>
-							<ml:real>0.051837359187572984</ml:real>
-							<ml:real>0.03174106060587658</ml:real>
-							<ml:real>0.022084366668921662</ml:real>
-							<ml:real>0.020274298381536379</ml:real>
-							<ml:real>0.016954226546976443</ml:real>
-							<ml:real>0.011333660471942696</ml:real>
-							<ml:real>0.009075203352473294</ml:real>
-							<ml:real>0.0058728139717200189</ml:real>
-							<ml:real>0.004558286029135405</ml:real>
-							<ml:real>0.15811674098410061</ml:real>
-							<ml:real>0.12268143363122108</ml:real>
-							<ml:real>0.084310784528475874</ml:real>
-							<ml:real>0.055921041713534132</ml:real>
-							<ml:real>0.036860962582969468</ml:real>
-							<ml:real>0.030839094081452637</ml:real>
-							<ml:real>0.026524160115007672</ml:real>
-							<ml:real>0.015895854051299164</ml:real>
-							<ml:real>0.010242499365466479</ml:real>
-							<ml:real>0.0057432865430008658</ml:real>
-							<ml:real>0.00463244508771533</ml:real>
-							<ml:real>0.22969372122565679</ml:real>
-							<ml:real>0.16149182076760932</ml:real>
-							<ml:real>0.10809091092386525</ml:real>
-							<ml:real>0.079041969696484179</ml:real>
-							<ml:real>0.051037130074996565</ml:real>
-							<ml:real>0.038227674625568468</ml:real>
-							<ml:real>0.032623009691624592</ml:real>
-							<ml:real>0.021122618004144049</ml:real>
-							<ml:real>0.013718004214050113</ml:real>
-							<ml:real>0.0099464045434536387</ml:real>
-							<ml:real>0.0073812993171579718</ml:real>
+							<ml:real>0.0578196953939249</ml:real>
+							<ml:real>0.032280007397734616</ml:real>
+							<ml:real>0.028920543313235771</ml:real>
+							<ml:real>0.027310198509425104</ml:real>
+							<ml:real>0.029323022131509179</ml:real>
+							<ml:real>0.026227932918110954</ml:real>
+							<ml:real>0.025205512072746357</ml:real>
+							<ml:real>0.024800783014375723</ml:real>
+							<ml:real>0.024711487895960737</ml:real>
+							<ml:real>0.024718184189654269</ml:real>
+							<ml:real>0.024621513618627595</ml:real>
+							<ml:real>0.11748547383385155</ml:real>
+							<ml:real>0.041671026027242111</ml:real>
+							<ml:real>0.025355484209041185</ml:real>
+							<ml:real>0.019644519152508786</ml:real>
+							<ml:real>0.023849938135454996</ml:real>
+							<ml:real>0.015720782024552245</ml:real>
+							<ml:real>0.011959367816172925</ml:real>
+							<ml:real>0.010777838356149672</ml:real>
+							<ml:real>0.01036996073101186</ml:real>
+							<ml:real>0.010196047872029235</ml:real>
+							<ml:real>0.0098772228875868874</ml:real>
+							<ml:real>0.14379971924248222</ml:real>
+							<ml:real>0.057096922914761712</ml:real>
+							<ml:real>0.048410182987249861</ml:real>
+							<ml:real>0.047877146975781916</ml:real>
+							<ml:real>0.034964785814712844</ml:real>
+							<ml:real>0.024304291633244317</ml:real>
+							<ml:real>0.017358564814493632</ml:real>
+							<ml:real>0.011871831323529328</ml:real>
+							<ml:real>0.0065955379667659636</ml:real>
+							<ml:real>0.00614093183221484</ml:real>
+							<ml:real>0.0046552211060851686</ml:real>
+							<ml:real>0.16768343785647513</ml:real>
+							<ml:real>0.11067411681777058</ml:real>
+							<ml:real>0.094568058858845422</ml:real>
+							<ml:real>0.062896783316603366</ml:real>
+							<ml:real>0.04340386925878971</ml:real>
+							<ml:real>0.030614575269338855</ml:real>
+							<ml:real>0.020869453838965962</ml:real>
+							<ml:real>0.014294104589925629</ml:real>
+							<ml:real>0.0080625286152423616</ml:real>
+							<ml:real>0.0066866620481170246</ml:real>
+							<ml:real>0.0051501170141005853</ml:real>
+							<ml:real>0.21870914949622564</ml:real>
+							<ml:real>0.14922726517022225</ml:real>
+							<ml:real>0.11989580631094725</ml:real>
+							<ml:real>0.084129108254610133</ml:real>
+							<ml:real>0.052069232921545743</ml:real>
+							<ml:real>0.03887562730622672</ml:real>
+							<ml:real>0.025321569273453869</ml:real>
+							<ml:real>0.018734175437173043</ml:real>
+							<ml:real>0.011476990590682194</ml:real>
+							<ml:real>0.0099400164539556347</ml:real>
+							<ml:real>0.00817776003503537</ml:real>
 						</ml:matrix>
 					</result>
 				</ml:eval>
@@ -2963,61 +2963,61 @@
 					<ml:id xml:space="preserve">SFError</ml:id>
 					<result xmlns="http://schemas.mathsoft.com/math30">
 						<ml:matrix rows="11" cols="5">
-							<ml:real>0.016090833745209674</ml:real>
-							<ml:real>0.00837074590494872</ml:real>
-							<ml:real>0.0076567881785841157</ml:real>
-							<ml:real>0.0088283364274831626</ml:real>
-							<ml:real>0.0082997153944929184</ml:real>
-							<ml:real>0.0064053418723089648</ml:real>
-							<ml:real>0.0067558516341800958</ml:real>
-							<ml:real>0.00614588072122651</ml:real>
-							<ml:real>0.0060062801979872812</ml:real>
-							<ml:real>0.0058836905196512374</ml:real>
-							<ml:real>0.0058143633400873779</ml:real>
-							<ml:real>0.016655989626586827</ml:real>
-							<ml:real>0.0074197948867713538</ml:real>
-							<ml:real>0.0061326640005858295</ml:real>
-							<ml:real>0.0072659334582758344</ml:real>
-							<ml:real>0.0063002336293804008</ml:real>
-							<ml:real>0.0030423785014983143</ml:real>
-							<ml:real>0.0037082277768149645</ml:real>
-							<ml:real>0.0024212353002081707</ml:real>
-							<ml:real>0.0020222965602060628</ml:real>
-							<ml:real>0.0015731046461002741</ml:real>
-							<ml:real>0.0012876947507204758</ml:real>
-							<ml:real>0.017273049575953044</ml:real>
-							<ml:real>0.007671762445116229</ml:real>
-							<ml:real>0.0065492440648268367</ml:real>
-							<ml:real>0.007268536760086616</ml:real>
-							<ml:real>0.00627928267416348</ml:real>
-							<ml:real>0.0029033636361174065</ml:real>
-							<ml:real>0.0035648067901802661</ml:real>
-							<ml:real>0.0021986513259821673</ml:real>
-							<ml:real>0.0017404811372227083</ml:real>
-							<ml:real>0.0011869358151387502</ml:real>
-							<ml:real>0.00074975698981105</ml:real>
-							<ml:real>0.017867571784782176</ml:real>
-							<ml:real>0.00800352558199662</ml:real>
-							<ml:real>0.0067823957618094672</ml:real>
-							<ml:real>0.00742112947293247</ml:real>
-							<ml:real>0.0063931733006674409</ml:real>
-							<ml:real>0.0029814740592152885</ml:real>
-							<ml:real>0.0036087215453824723</ml:real>
-							<ml:real>0.0022400284519558046</ml:real>
-							<ml:real>0.0017509466242405234</ml:real>
-							<ml:real>0.0011997754626187657</ml:real>
-							<ml:real>0.00073509651453038539</ml:real>
-							<ml:real>0.018181302839637255</ml:real>
-							<ml:real>0.0083347346059832149</ml:real>
-							<ml:real>0.0068815318801070651</ml:real>
-							<ml:real>0.0074583551883210513</ml:real>
-							<ml:real>0.0064145892740507</ml:real>
-							<ml:real>0.0030192892399375513</ml:real>
-							<ml:real>0.0036227188428259111</ml:real>
-							<ml:real>0.0022486032874521012</ml:real>
-							<ml:real>0.0017562095841482271</ml:real>
-							<ml:real>0.0012036999924728952</ml:real>
-							<ml:real>0.00073750723038360335</ml:real>
+							<ml:real>0.012316561735099582</ml:real>
+							<ml:real>0.01462338630734825</ml:real>
+							<ml:real>0.010374262470035546</ml:real>
+							<ml:real>0.010559733892213638</ml:real>
+							<ml:real>0.0077921558654121927</ml:real>
+							<ml:real>0.0059005404185875025</ml:real>
+							<ml:real>0.0062985993280229068</ml:real>
+							<ml:real>0.0060482403270688233</ml:real>
+							<ml:real>0.00597830190412461</ml:real>
+							<ml:real>0.005961052589662872</ml:real>
+							<ml:real>0.00589987609165963</ml:real>
+							<ml:real>0.012982092965588285</ml:real>
+							<ml:real>0.014003521246744656</ml:real>
+							<ml:real>0.0090081183160603522</ml:real>
+							<ml:real>0.0090883621239247325</ml:real>
+							<ml:real>0.0056686401216184505</ml:real>
+							<ml:real>0.0018326902908044642</ml:real>
+							<ml:real>0.0027868891105609131</ml:real>
+							<ml:real>0.0021166127698849864</ml:real>
+							<ml:real>0.0019140586968520721</ml:real>
+							<ml:real>0.0018589467958674347</ml:real>
+							<ml:real>0.0016406839783665733</ml:real>
+							<ml:real>0.013420972810460664</ml:real>
+							<ml:real>0.014163474687426934</ml:real>
+							<ml:real>0.009270726817120746</ml:real>
+							<ml:real>0.00913209128633046</ml:real>
+							<ml:real>0.0056208491765736366</ml:real>
+							<ml:real>0.0015820236742206785</ml:real>
+							<ml:real>0.00263684295692795</ml:real>
+							<ml:real>0.0018687381141953066</ml:real>
+							<ml:real>0.0016225133724140622</ml:real>
+							<ml:real>0.0015410003803510886</ml:real>
+							<ml:real>0.0012705575810840098</ml:real>
+							<ml:real>0.013796790058171637</ml:real>
+							<ml:real>0.014304241462751478</ml:real>
+							<ml:real>0.0094584363998991856</ml:real>
+							<ml:real>0.0092229657249331513</ml:real>
+							<ml:real>0.0056988310480056321</ml:real>
+							<ml:real>0.0017277193802351318</ml:real>
+							<ml:real>0.0026454244516745996</ml:real>
+							<ml:real>0.0018914481839693352</ml:real>
+							<ml:real>0.0016230578845359</ml:real>
+							<ml:real>0.0015329502699755347</ml:real>
+							<ml:real>0.0012596479266033375</ml:real>
+							<ml:real>0.014099660886234072</ml:real>
+							<ml:real>0.014472191564570849</ml:real>
+							<ml:real>0.0095671245800181652</ml:real>
+							<ml:real>0.00927317573827858</ml:real>
+							<ml:real>0.00572169966551704</ml:real>
+							<ml:real>0.001818185395356579</ml:real>
+							<ml:real>0.0026832545042887864</ml:real>
+							<ml:real>0.0019269365781404695</ml:real>
+							<ml:real>0.0016399850746074078</ml:real>
+							<ml:real>0.0015380781985368198</ml:real>
+							<ml:real>0.0012634704502762877</ml:real>
 						</ml:matrix>
 					</result>
 				</ml:eval>
@@ -3027,6 +3027,554 @@
 					<unit format-units="true" simplify-units="true" fractional-unit-exponent="false"/>
 					<table item-idref="5"/>
 				</resultFormat>
+			</math>
+		</region>
+		<region region-id="3136" left="12" top="3356.25" width="397.5" height="12" align-x="39.75" align-y="3366" show-border="true" show-highlight="true" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">Comparison with histogram</p>
+			</text>
+		</region>
+		<region region-id="3121" left="12" top="3387" width="29.25" height="12.75" align-x="24" align-y="3396" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:id xml:space="preserve">L</ml:id>
+					<ml:real>16</ml:real>
+				</ml:define>
+			</math>
+		</region>
+		<region region-id="3134" left="108" top="3387" width="42.75" height="12.75" align-x="120.75" align-y="3396" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:id xml:space="preserve">h</ml:id>
+					<ml:apply>
+						<ml:div inline="true"/>
+						<ml:real>2</ml:real>
+						<ml:id xml:space="preserve">L</ml:id>
+					</ml:apply>
+				</ml:define>
+			</math>
+		</region>
+		<region region-id="3126" left="12" top="3410.25" width="249" height="36" align-x="42" align-y="3426" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">ba99af8d8361bd4a323ddd12f761638a</contentHash>
+					<ml:define>
+						<ml:function>
+							<ml:id xml:space="preserve">p</ml:id>
+							<ml:boundVars>
+								<ml:id xml:space="preserve">i</ml:id>
+								<ml:id xml:space="preserve">t</ml:id>
+							</ml:boundVars>
+						</ml:function>
+						<ml:apply>
+							<ml:mult/>
+							<ml:apply>
+								<ml:div/>
+								<ml:real>1</ml:real>
+								<ml:apply>
+									<ml:sqrt/>
+									<ml:id xml:space="preserve">h</ml:id>
+								</ml:apply>
+							</ml:apply>
+							<ml:program>
+								<ml:ifThen>
+									<ml:apply>
+										<ml:notEqual/>
+										<ml:id xml:space="preserve">i</ml:id>
+										<ml:apply>
+											<ml:minus/>
+											<ml:id xml:space="preserve">L</ml:id>
+											<ml:real>1</ml:real>
+										</ml:apply>
+									</ml:apply>
+									<ml:apply>
+										<ml:id xml:space="preserve">if</ml:id>
+										<ml:sequence>
+											<ml:apply>
+												<ml:lessThan/>
+												<ml:apply>
+													<ml:lessOrEqual/>
+													<ml:apply>
+														<ml:mult/>
+														<ml:id xml:space="preserve">i</ml:id>
+														<ml:id xml:space="preserve">h</ml:id>
+													</ml:apply>
+													<ml:apply>
+														<ml:plus/>
+														<ml:id xml:space="preserve">t</ml:id>
+														<ml:real>1</ml:real>
+													</ml:apply>
+												</ml:apply>
+												<ml:apply>
+													<ml:mult/>
+													<ml:parens>
+														<ml:apply>
+															<ml:plus/>
+															<ml:id xml:space="preserve">i</ml:id>
+															<ml:real>1</ml:real>
+														</ml:apply>
+													</ml:parens>
+													<ml:id xml:space="preserve">h</ml:id>
+												</ml:apply>
+											</ml:apply>
+											<ml:real>1</ml:real>
+											<ml:real>0</ml:real>
+										</ml:sequence>
+									</ml:apply>
+								</ml:ifThen>
+								<ml:otherwise>
+									<ml:apply>
+										<ml:id xml:space="preserve">if</ml:id>
+										<ml:sequence>
+											<ml:apply>
+												<ml:lessOrEqual/>
+												<ml:apply>
+													<ml:lessOrEqual/>
+													<ml:apply>
+														<ml:mult/>
+														<ml:id xml:space="preserve">i</ml:id>
+														<ml:id xml:space="preserve">h</ml:id>
+													</ml:apply>
+													<ml:apply>
+														<ml:plus/>
+														<ml:id xml:space="preserve">t</ml:id>
+														<ml:real>1</ml:real>
+													</ml:apply>
+												</ml:apply>
+												<ml:apply>
+													<ml:mult/>
+													<ml:parens>
+														<ml:apply>
+															<ml:plus/>
+															<ml:id xml:space="preserve">i</ml:id>
+															<ml:real>1</ml:real>
+														</ml:apply>
+													</ml:parens>
+													<ml:id xml:space="preserve">h</ml:id>
+												</ml:apply>
+											</ml:apply>
+											<ml:real>1</ml:real>
+											<ml:real>0</ml:real>
+										</ml:sequence>
+									</ml:apply>
+								</ml:otherwise>
+							</ml:program>
+						</ml:apply>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3128" left="12" top="3477" width="51" height="12.75" align-x="21" align-y="3486" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">3693475feb079300567f51c8be1702db</contentHash>
+					<ml:define>
+						<ml:id xml:space="preserve">i</ml:id>
+						<ml:range>
+							<ml:real>0</ml:real>
+							<ml:apply>
+								<ml:minus/>
+								<ml:id xml:space="preserve">L</ml:id>
+								<ml:real>1</ml:real>
+							</ml:apply>
+						</ml:range>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3129" left="108" top="3470.25" width="143.25" height="29.25" align-x="123" align-y="3486" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">4e796235ad416dbab8a59822faa0f51a</contentHash>
+					<ml:define>
+						<ml:apply>
+							<ml:indexer/>
+							<ml:id xml:space="preserve">G</ml:id>
+							<ml:id xml:space="preserve">i</ml:id>
+						</ml:apply>
+						<ml:apply>
+							<ml:div/>
+							<ml:apply>
+								<ml:minus/>
+								<ml:apply>
+									<ml:id xml:space="preserve">f</ml:id>
+									<ml:apply>
+										<ml:minus/>
+										<ml:apply>
+											<ml:mult/>
+											<ml:parens>
+												<ml:apply>
+													<ml:plus/>
+													<ml:id xml:space="preserve">i</ml:id>
+													<ml:real>1</ml:real>
+												</ml:apply>
+											</ml:parens>
+											<ml:id xml:space="preserve">h</ml:id>
+										</ml:apply>
+										<ml:real>1</ml:real>
+									</ml:apply>
+								</ml:apply>
+								<ml:apply>
+									<ml:id xml:space="preserve">f</ml:id>
+									<ml:apply>
+										<ml:minus/>
+										<ml:apply>
+											<ml:mult/>
+											<ml:id xml:space="preserve">i</ml:id>
+											<ml:id xml:space="preserve">h</ml:id>
+										</ml:apply>
+										<ml:real>1</ml:real>
+									</ml:apply>
+								</ml:apply>
+							</ml:apply>
+							<ml:apply>
+								<ml:sqrt/>
+								<ml:id xml:space="preserve">h</ml:id>
+							</ml:apply>
+						</ml:apply>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3141" left="288" top="3463.5" width="97.5" height="43.5" align-x="312" align-y="3486" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:function>
+						<ml:id xml:space="preserve">h</ml:id>
+						<ml:boundVars>
+							<ml:id xml:space="preserve">x</ml:id>
+						</ml:boundVars>
+					</ml:function>
+					<ml:apply>
+						<ml:summation/>
+						<ml:lambda>
+							<ml:boundVars>
+								<ml:id xml:space="preserve">i</ml:id>
+							</ml:boundVars>
+							<ml:parens>
+								<ml:apply>
+									<ml:mult/>
+									<ml:apply>
+										<ml:indexer/>
+										<ml:id xml:space="preserve">G</ml:id>
+										<ml:id xml:space="preserve">i</ml:id>
+									</ml:apply>
+									<ml:apply>
+										<ml:id xml:space="preserve">p</ml:id>
+										<ml:sequence>
+											<ml:id xml:space="preserve">i</ml:id>
+											<ml:id xml:space="preserve">x</ml:id>
+										</ml:sequence>
+									</ml:apply>
+								</ml:apply>
+							</ml:parens>
+						</ml:lambda>
+						<ml:bounds>
+							<ml:real>0</ml:real>
+							<ml:apply>
+								<ml:minus/>
+								<ml:id xml:space="preserve">L</ml:id>
+								<ml:real>1</ml:real>
+							</ml:apply>
+						</ml:bounds>
+					</ml:apply>
+				</ml:define>
+			</math>
+		</region>
+		<region region-id="3140" left="12" top="3516" width="162" height="129.75" align-x="12" align-y="3516" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<plot disable-calc="false" item-idref="6"/>
+		</region>
+		<region region-id="3148" left="12" top="3681" width="33.75" height="12.75" align-x="21" align-y="3690" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="4AD972A2-486E-44B6-B2D4-0C9A89CADE2F" version-id="564BC10E-114C-44E0-9561-23E2A43B52E1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257082972" is-modified="true" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Расчеты.xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">ef7bb34e59d16119e92ed581fb12f146</contentHash>
+					<ml:define>
+						<ml:id xml:space="preserve">i</ml:id>
+						<ml:range>
+							<ml:real>0</ml:real>
+							<ml:real>4</ml:real>
+						</ml:range>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3149" left="72" top="3675" width="39.75" height="24" align-x="86.25" align-y="3690" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">0743a97410b2ce1f855b949b964ac24a</contentHash>
+					<ml:define>
+						<ml:apply>
+							<ml:indexer/>
+							<ml:id xml:space="preserve">L</ml:id>
+							<ml:id xml:space="preserve">i</ml:id>
+						</ml:apply>
+						<ml:apply>
+							<ml:pow/>
+							<ml:real>2</ml:real>
+							<ml:apply>
+								<ml:plus/>
+								<ml:id xml:space="preserve">i</ml:id>
+								<ml:real>2</ml:real>
+							</ml:apply>
+						</ml:apply>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3150" left="150" top="3675.75" width="102" height="18" align-x="165.75" align-y="3690" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:provenance expr-id="1">
+						<originRef doc-id="4AD972A2-486E-44B6-B2D4-0C9A89CADE2F" version-id="564BC10E-114C-44E0-9561-23E2A43B52E1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257083116" is-modified="true" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Расчеты.xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash/>
+						</originRef>
+						<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+						</parentRef>
+						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<contentHash xmlns="http://schemas.mathsoft.com/provenance10">fe89b1f76f7964a0ed9bbd46b2001499</contentHash>
+						<ml:apply>
+							<ml:transpose/>
+							<ml:id xml:space="preserve">L</ml:id>
+						</ml:apply>
+					</ml:provenance>
+					<result xmlns="http://schemas.mathsoft.com/math30">
+						<ml:matrix rows="1" cols="5">
+							<ml:real>4</ml:real>
+							<ml:real>8</ml:real>
+							<ml:real>16</ml:real>
+							<ml:real>32</ml:real>
+							<ml:real>64</ml:real>
+						</ml:matrix>
+					</result>
+				</ml:eval>
+			</math>
+		</region>
+		<region region-id="3151" left="12" top="3705" width="219.75" height="113.25" align-x="47.25" align-y="3714" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</originRef>
+					<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">aede0e3099092cdfa6f946a41bf76409</contentHash>
+					<ml:define>
+						<ml:apply>
+							<ml:indexer/>
+							<ml:id xml:space="preserve">GError</ml:id>
+							<ml:id xml:space="preserve">i</ml:id>
+						</ml:apply>
+						<ml:program>
+							<ml:localDefine>
+								<ml:id xml:space="preserve">G</ml:id>
+								<ml:real>0</ml:real>
+							</ml:localDefine>
+							<ml:localDefine>
+								<ml:id xml:space="preserve">h</ml:id>
+								<ml:apply>
+									<ml:div inline="true"/>
+									<ml:real>2</ml:real>
+									<ml:apply>
+										<ml:indexer/>
+										<ml:id xml:space="preserve">L</ml:id>
+										<ml:id xml:space="preserve">i</ml:id>
+									</ml:apply>
+								</ml:apply>
+							</ml:localDefine>
+							<ml:for>
+								<ml:id xml:space="preserve">k</ml:id>
+								<ml:range>
+									<ml:real>0</ml:real>
+									<ml:apply>
+										<ml:minus/>
+										<ml:apply>
+											<ml:indexer/>
+											<ml:id xml:space="preserve">L</ml:id>
+											<ml:id xml:space="preserve">i</ml:id>
+										</ml:apply>
+										<ml:real>1</ml:real>
+									</ml:apply>
+								</ml:range>
+								<ml:localDefine>
+									<ml:apply>
+										<ml:indexer/>
+										<ml:id xml:space="preserve">G</ml:id>
+										<ml:id xml:space="preserve">k</ml:id>
+									</ml:apply>
+									<ml:apply>
+										<ml:div/>
+										<ml:apply>
+											<ml:minus/>
+											<ml:apply>
+												<ml:id xml:space="preserve">f</ml:id>
+												<ml:apply>
+													<ml:minus/>
+													<ml:apply>
+														<ml:mult/>
+														<ml:parens>
+															<ml:apply>
+																<ml:plus/>
+																<ml:id xml:space="preserve">k</ml:id>
+																<ml:real>1</ml:real>
+															</ml:apply>
+														</ml:parens>
+														<ml:id xml:space="preserve">h</ml:id>
+													</ml:apply>
+													<ml:real>1</ml:real>
+												</ml:apply>
+											</ml:apply>
+											<ml:apply>
+												<ml:id xml:space="preserve">f</ml:id>
+												<ml:apply>
+													<ml:minus/>
+													<ml:apply>
+														<ml:mult/>
+														<ml:id xml:space="preserve">k</ml:id>
+														<ml:id xml:space="preserve">h</ml:id>
+													</ml:apply>
+													<ml:real>1</ml:real>
+												</ml:apply>
+											</ml:apply>
+										</ml:apply>
+										<ml:apply>
+											<ml:sqrt/>
+											<ml:id xml:space="preserve">h</ml:id>
+										</ml:apply>
+									</ml:apply>
+								</ml:localDefine>
+							</ml:for>
+							<ml:apply>
+								<ml:sqrt/>
+								<ml:apply>
+									<ml:minus/>
+									<ml:id xml:space="preserve">N2</ml:id>
+									<ml:apply>
+										<ml:pow/>
+										<ml:parens>
+											<ml:apply>
+												<ml:absval/>
+												<ml:id xml:space="preserve">G</ml:id>
+											</ml:apply>
+										</ml:parens>
+										<ml:real>2</ml:real>
+									</ml:apply>
+								</ml:apply>
+							</ml:apply>
+						</ml:program>
+					</ml:define>
+				</ml:provenance>
+			</math>
+		</region>
+		<region region-id="3152" left="12" top="3825.75" width="255.75" height="18" align-x="48.75" align-y="3840" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:provenance expr-id="1">
+						<originRef doc-id="4AD972A2-486E-44B6-B2D4-0C9A89CADE2F" version-id="564BC10E-114C-44E0-9561-23E2A43B52E1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257439116" is-modified="true" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Расчеты.xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash/>
+						</originRef>
+						<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+						</parentRef>
+						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<contentHash xmlns="http://schemas.mathsoft.com/provenance10">4530125005d721c1bd01b68b6c0b8fbd</contentHash>
+						<ml:apply>
+							<ml:transpose/>
+							<ml:id xml:space="preserve">GError</ml:id>
+						</ml:apply>
+					</ml:provenance>
+					<result xmlns="http://schemas.mathsoft.com/math30">
+						<ml:matrix rows="1" cols="5">
+							<ml:real>0.18626292586293275</ml:real>
+							<ml:real>0.094153045189028256</ml:real>
+							<ml:real>0.047203356742452539</ml:real>
+							<ml:real>0.023617506032580646</ml:real>
+							<ml:real>0.011810730645417121</ml:real>
+						</ml:matrix>
+					</result>
+				</ml:eval>
+				<resultFormat numeric-only="true">
+					<general precision="6" show-trailing-zeros="true" radix="dec" complex-threshold="10" zero-threshold="15" imaginary-value="i" exponential-threshold="6"/>
+					<matrix display-style="auto" expand-nested-arrays="false"/>
+					<unit format-units="true" simplify-units="true" fractional-unit-exponent="false"/>
+				</resultFormat>
+			</math>
+		</region>
+		<region region-id="3153" left="12" top="3849.75" width="186" height="18" align-x="89.25" align-y="3864" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:provenance expr-id="1">
+						<originRef doc-id="4AD972A2-486E-44B6-B2D4-0C9A89CADE2F" version-id="564BC10E-114C-44E0-9561-23E2A43B52E1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="257439188" is-modified="true" region-id="0" href="D:\Work\Science\Статьи\2025 - Проекционные оценки\Расчеты.xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash/>
+						</originRef>
+						<parentRef doc-id="6B1B9EBF-5A4A-41E4-ADFE-B0A56F587925" version-id="D88521CB-23C0-4187-9FB5-E1C7ACBF0D3A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="5" is-modified="false" region-id="0" href="D:\Work\Science\Статьи\2025 - Analysis and Conditional Optimization of Projection Estimates... (Algorithms)\Mathcad\Расчеты (гистограмма).xmcdz" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash>54461c382e7e9b51f7da0f23474983cf</hash>
+						</parentRef>
+						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+						<contentHash xmlns="http://schemas.mathsoft.com/provenance10">3388d403226be2f6b3fcce4ebc1bae0d</contentHash>
+						<ml:apply>
+							<ml:transpose/>
+							<ml:apply>
+								<ml:id xml:space="preserve">getError</ml:id>
+								<ml:id xml:space="preserve">GError</ml:id>
+							</ml:apply>
+						</ml:apply>
+					</ml:provenance>
+					<result xmlns="http://schemas.mathsoft.com/math30">
+						<ml:matrix rows="1" cols="4">
+							<ml:real>1.9782995386817095</ml:real>
+							<ml:real>1.9946260538787344</ml:real>
+							<ml:real>1.9986596670001868</ml:real>
+							<ml:real>1.9996651131608754</ml:real>
+						</ml:matrix>
+					</result>
+				</ml:eval>
 			</math>
 		</region>
 	</regions>
@@ -3058,39 +3606,51 @@ xfnx6TybRblF3K66ZwQfRHnE/2+j+o+qiu6mrIgexSpzo+v08jnp8AUawI5kxaVVFEWJdPB/
 9PAWKko8K3Erz6I4CQ902vIrYiBbQvqISh8HIX1MVwZSk76O2kDq0jdKhRiKVCKogVPsYctU
 HCVgEQeBzUKBdJSOKnfBofI6OFTeAIfKm9QLwRpxEHiKo8g8r3d0NUuyNI7e8YnYNPcL2FSk
 ePTq6NzqOP9ZjZvJHwAAAP//AwCcRGFxHQQAAA==</item>
-		<item item-id="4" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCeXWi7lJbaAkVBsGJFEUXdYKKEmGLBnyg0aQ03Y0q7gZqWLWVJ
-JPHQePIAiYnGs1704MmbRyTGxGgCxiMXPXogQYmJMUqd9+Z12RJQ/IsxMM28fW/efDOz07fv
-zXMBgIQcQ3byvoxtuZHTtAZgpCIrmURk8IqWMLgEoshdCAqVqfbPAPly9eEMjmyqHx95uzr5
-BB8O1R3i2ooYV6iyByCpoMQRgzPQCzn86cjgJKRSSYacLhVQNVSJaDe5qKxSuUc34AyLsCI8
-EOsdPWdoGYl7cSHbrQLUhG1cVdFGo9pQSh+x8YkOhk7qCZKVc9kJ883tY8PZU/pVetELyA4U
-RM1X7+NWAT5UAbxDR4sYZzeOsx6aX3BQOmWQvbzjMz11G0YuNThuaBRfJ7BXsZKvs7lkXF3M
-YA1lsLqWMlizRgb96p2nqFJTR5nzI2o77+b9FouSxGPy9I9ntFwqEU+f1nOZuKHwybPISUjh
-zy5CY+vBLtYHiL5INcAOni4X/g1hPTOos8TTNEuPA8UrEmary0npXMLETaHBL9gvFJg2qkbS
-Wjid0kYMjsHZMtMrbxE7N+t9c+9R/VtYRSdRd7lQUYzNxBRjZuHIYrxcYB6JClv0X9FX5GUL
-b9HmoijuczoYEMBdbwSfOZhYvRV8l/xgM795thdch2NSs3feeysP7oFntnqr7vTMQvv7xXmJ
-7ULTYiMJo3fmV+Pt2E/5ZuQDWbK+z0ZxN6Qf62yUfsX/n6Tf8U+HKp0M7MxmZznb87f2gs1B
-NizolFYsOMSX6ixZGWafLQtWNp5HriWZX3ST61Q2KQuelTaPkZcKpSv0Jjl5yZo+rJUDyMO4
-F6TxF4AebIfwqXKlI8jD11zSccEddZc82aUFePHgtfHptkf6+BdtdzGli5PPjybmvPen4G5w
-1vaqWA0pq3K1Vv5AksV3xrKDhSbgYVvC/4p4lPVU0rLSXqZS1hfDQjaevtyTGsum4xP9elIj
-/QgHNRBALJad699AGsUNpIluII27qI5uQlSAbiBNu+kGEmArqJnsBnggoQhIe0jQyP0EhZG9
-ZCSIohYyEtxHRlqYkf2EaTGNtFqMHFjBtgnsQcK2MewhUm0zse2WycOWSTb+BgAA//8DAJaD
-6prkDQAA</item>
-		<item item-id="5" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCfXfqxlJbSAkVBcMWKIoq6waiEmGqBYBSatIabMaXdQE3LlrIk
-kHho9OIBEhONZ73owZM3j2qMidEEjEcu+gdIUGJijFLnvdkuWwKKXzEGZjNv35s3v5nZ2bdv
-57kBQECOIbt4X8TWpudUtQEYKchSJhEZuqQmdC6BKHIXgkJliuMzQN6m3H+CI7sSwFveoUw/
-xptT8YS4tmSMyxXRC5CUUOKMQS/0QA4vDRlchJQqyJDLrQCqhioQ7SEXFZUK9+gBnGERlocH
-Yz1jZ3Q1I3AvbmSHVYCaUMVVJXUsqg6ntFE7n+hg6KSWIJmNy06YT+4YH8me1ibpQc8hO1EQ
-NR+9H7kP9T5UAsiIXcQ4J3Gc9dL8gpPSKYLo4x2/6emUrudSQxO6SvF1AnsUK/k7m0vG1cUM
-1lAGq2spgzVrZDCg3HqKKjV1lLkAorbxbj5gsSgIPCbvwERGzaUS8XSvlsvEdYlP9iEnIYWX
-wwiNrQeHsT7A6BupBtjO0+XG1xDWMkMaSzxNV7GkoXhFwmx1obGriFjCxM2gwS8oKxSYNqpG
-0mo4nVJHdY7BWZvplbeInZv1vbnzoP4trKKTUAbLhfJibCamGDMLRzTGywXmkaiwRf8VfUVe
-tvAWbS6K4j6ngQ4y7nqjeM/B1Oqt4LsUALv5zbO94AocFZp9874befAMPrPXW3UXjy20v1+c
-F8qw/8jYSMLonflVeTv+U74Z+UEUrM+zUdw14cc6G6Vf8f8n6Xf8008VgL0T9ndg/3K252/t
-BZuD7FjQSa1YcBhfqqtkZZh9tixY2XgWuZZkAaObXKeySVnwrLR5iLxUKF2h18nJS9b0Y60s
-I4/gXpDGS4ZubIfxrnClw8gjl93CcYM76i54s0vv4MW91/qnm17h41+03cWUzk8/P5KY892d
-gdvBWfurYjUkrcrVWvkDQTS+M5YdLDQBf7Yl/K+IR1lPJS0r7UUqZf0xLGTj6YvdqfFsOj41
-oCVV0o9wUAMBjMWyY/0TSKNxAmmiE0jjTqqjmxAl0wmkaRedQGS2gprJrswDCUVA2E2CRu4n
-aBjZQ0aCKGohI8G9ZKSFGdlHmBbTSKvFyP4VbJuBPUDYNoY9SKptJrbdMnnIMsnG3wAAAP//
-AwBTNU5U5A0AAA==</item>
+		<item item-id="4" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCeXWi7lJbSAkVBsGJFEX83mCghpljwJwpNWsPNmNJuoKZlS1kS
+STw0njxAYqLxrAc10ZM3j2qMCdEEiEc96NEDiZGYGKPUeW9ely0Bxb8YA9PM2/fmzTczO337
+3jwXAEjIMWQn78vYlhs5TWsERiqykklEBi9oCYNLIIrchaBQmWr/DJAvV+8/wZFN9eMjb1cn
+H+PDobpDXFsR4wpV9gAkFZQ4YnACeiGHPx0ZnIRUKsmQ06UCqoYqEe0mF5VVKvfoBpxhEVaE
+B2K9o6cMLSNxLy5ku1WAmlDNVRVtNKoNpfQRG5/oYOikniBZOZcdMd/cPjacPaZfpBc9g+xA
+QdR89T5uFeBDFcA7dPQe4+zGcdZD8/MOSqcMspd3fKanbsPIpQbHDY3i6wT2KlbydbaUjGuK
+GaylDNbUUQZrV8igX73xFFVq6ylzfkRt4t2832JRknhMnv7xjJZLJeLp43ouEzcUPnkSOQkp
+/NlFaGw92MX6ANEXqQbYzNPlwr8hrGcGdZZ4mmbpcaB4ScJsdTkpnQuYuCk0+AX7hQLTRtVI
+WgunU9qIwTE4W2Z65S1iZ2e8b249aHgLy+go6i4WKoqxmZhizCwcWYwXC8wjUWGD/iv6irxo
+4Q1aXxTFfU4HAwK4643gMwcTy7eC75IfbOY3z/aCy3BIavG+8l7Lg3vgma3BqlsN0/duO15L
+bBd6JDaSMHpnfjXejv2Ub0Y+kCXr+6wVd0X6sc5a6Vf8/0n6Hf90qNLJwM5sdpazPX9jL1gf
+ZMOCTmnDgkN8qc6SlWH22bJgZeNp5DqS+UU3uUplk7LgWWnzEHmhULpCr5KTF6zpw1o5gDyM
+e0EafwHowXYInypXOoA8fMklHRbcUX/Ok12Yh+d3Xxqfrnukj3/RdhdTOjs5fTAx670zBTeD
+M7a5YjWkLMvVSvkDSRbfGcsOFpqAh20J/yviUTZQSctKe5lKWV8MC9l4+nxPaiybjk/060mN
+9CMc1EgAsVi2rH4DaRI3kGa6gTRtpTq6GVEBuoE0b6MbSICtoBayG+CBhCIgbSdBE/cTFEZ2
+kJEgilrJSHAnGWllRnYRptU00mYxsnsJ2y6wewjbzrB7SbXdxO6zTO63TLLxNwAAAP//AwB9
+sW2o5A0AAA==</item>
+		<item item-id="5" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCfXfqxlJbSAkVBsGJFET83mCghpspHMApNWsPNmNJuoKZlS1kS
+SDw0evEAiYnGsx7URE/ePKoxJkQTMB71oH+AxkhMjFHqvDevy5aA4leMgdnM2/fmzW9mdvbt
+23luAJCQY8gu3pextRk5TWsARiqykklEhs5pCYNLIIrciaBwmer4DJC3qXcf4ciuBvCWd6jT
+D/HmVD1hrq2IcbkqewGSCkqcMeiFHsjhpSODi5BKBRlyuVVA1XAFoj3koqJS5R49gDMswvKu
+wVjP2AlDy0jcixvZYRWgJlRxVUUbi2rDKX3UzifaGTqpJ0hm47Ij5pM7xkeyx/VJetBTyE4U
+RM1H70fuQ70PlQBBxL7HOCdxnPXS/DsnpVMG2cc7ftPTMcPIpYYmDI3i6wD2KFbydzSXjKuL
+GayhDFbXUgZrVshgQL32GFVq6ihzAURt4t18wGJRknhM3oGJjJZLJeLpXj2XiRsKn+xDTkIK
+L4cIja0Hh1gfIPoi1QCbebrc+Bq69MyQzhJP01UsaShekjBbnWjsIiIWMHEzaPALygoFpo2q
+kbTWlU5powbH4KzN9MpbxM7P+V7fuFf/BpbRUSiDxUJ5MTYTU4yZhSOL8WKBeSQqbNB/RV+R
+Fy28QeuLorjP6WBAEHe9UbznYGr5VvBdCoDd/ObZXnABDknNvpe+K3nwDD6x11t1wxOzd246
+X0ll2H8gNpIu9M78arwd/ynfjPwgS9bnWSvukvRjnbXSr/j/k/Q7/umnCsDeCfs7sH852/M3
+9oL1QXYs6JRWLDjEl+oqWRlmny0LVjaeRK4lWUB0k6tUNikLnpU295EXCqUr9DI5ecaafqyV
+g8gjuBek8QpCN7bDeFe50gHkkfNu6bDg9roz3uzCW3h6+4Xx6apX+vgXbXcypdPTswcT875b
+M3A9NGd/XqyGlGW5Wil/IMniO2PZwUIT8Gdbwv+KeJT1VNKy0l6mUtYfw0I2nj7bnRrPpuNT
+A3pSI/0IBzUQQCyWLaufQBrFCaSJTiCNW6mObkJUkE4gTdvoBBJkK6iZ7AZ5IOEISNtJ0Mj9
+hISRHWQkhKIWMhLaSUZamJFdhGkxjbRajOxewrYJ7B7CtjHsXlJtM7H7LJP7LZNs/A0AAP//
+AwATgI9O5A0AAA==</item>
+		<item item-id="6" content-encoding="gzip">H4sIAAAAAAAA/2xSzW7TQBCetRPbcZPmp4SSOCQ0CSX8CJUVCOipVBFCoi0oPEDlJm4SREhw
+XdSjxQNw48yFR0DcEXeeg5dAYX6c0CLWGs/Mt983M7vaLAAotFdoLscm/p3gXS8Yjqdv00Dr
+PlpmMO0LlmLsMdEm/RdHr4N+xAj0WG/g3zoZzXanZwLvodkI9JbEfbQC2ssSwC/0v0t/c1rd
+rExlgGHydKVl8ydRFI6PTqNAMXMbLQ/nV2q7eSFPc4FUFAaBx4BGy804tHTlO0CctvVn9DuW
+I97OiHdc8ZkVbWCT93g/lkpvwV14BA/gIUCW8W+IG0ptUV0WxJlVTVPt5mg6Dj/kuGFBuz9w
+3ynq0k8sXChxgUGRCgwB1vRHHCwuwiXGv6wRzrdYZkFcuCyCMm2MANZFUIYrIlhfCgAqMotd
+lUNUPPHVmhzGWwx9VQ6xzKEuwmpDDlFH6Jocos6FNySpcNIUstWS6s22+NZ1rhq1ueo9gE39
+6Tny2nCDN75uLjYAOlKidVP6dRC6JS063OK2nK25ONsdfmL5gT4chv5sdHg8DSd+ZDO3TC+V
+4a4f+XIR1eQlkIpft0qIeY4pc/2z8clTriOvu4Z2oBIurziO55jW/o/uXUBhjt+yuB2Ffj/Q
+XZO3vITYUAVQnppTpBSh8yL2VobyTFQ3lKm8FNZpqBTSYI5BWnlGvINbFnFIaDMHA4c4RM4g
+h+Uucli+ghyWZ5HD8hxxSLXKHAzyxCGyTJw/OJ0E4bjvv5E7cXjyZ2gDGONnJpfnJhf6z8qe
+T/4AAAD//wMA2zKZyWEEAAA=</item>
 	</binaryContent>
 </worksheet>
